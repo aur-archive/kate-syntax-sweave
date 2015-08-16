@@ -1,0 +1,13 @@
+pkgbase = kate-syntax-sweave
+	pkgdesc = Sweave syntax highlighting for KDE Katepart.
+	pkgver = 0.1
+	pkgrel = 2
+	url = http://kde-files.org/content/show.php?content=165676
+	arch = i686
+	arch = x86_64
+	license = LGPL
+	depends = kdesdk-kate
+	source = http://kde-files.org/CONTENT/content-files/165676-sweave.xml
+
+pkgname = kate-syntax-sweave
+
